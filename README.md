@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on OPEN CV
+### 🔭 I’m currently working on ...machine
 - 🌱 I’m currently learning OPEN CV
 - 👯 I’m looking to collaborate on ...oo
 - 🤔 I’m looking for help with an internship
