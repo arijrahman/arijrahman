@@ -1,5 +1,9 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on ...Machine Learning
+### 🌱 I’m currently learning OPEN CV
+### 🤔 I’m looking for help with an internship
+### 📫 How to reach me: rahman.arij@gmail.com
+
 <!--
 **arijrahman/arijrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
