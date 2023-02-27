@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on Machine Learning
+### 🔭 I’m currently working on Machine Learning,PowerBI
 ### 🤔 I’m looking for help with an internship
 ### 📫 How to reach me: rahman.arij@gmail.com
 
